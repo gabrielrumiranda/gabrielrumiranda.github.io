@@ -1,11 +1,7 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Setup
 title:            King Ghidorah
 tagline:          'Follow the light, the light is your guide'
-description:      'Space monster blog'
+description:      'Follow the light, the light is your guide'
 url:              https://gabrielrumiranda.github.io
 baseurl:          https://gabrielrumiranda.github.io/gabrielrumiranda.github.io/
 
