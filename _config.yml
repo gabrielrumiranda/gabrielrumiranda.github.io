@@ -2,10 +2,6 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
 title:            King Ghidorah
 tagline:          'Follow the light, the light is your guide'
