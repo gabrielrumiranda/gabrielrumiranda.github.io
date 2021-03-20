@@ -7,7 +7,7 @@ title:            King Ghidorah
 tagline:          'Follow the light, the light is your guide'
 description:      'Space monster blog'
 url:              https://gabrielrumiranda.github.io
-baseurl:          https://gabrielrumiranda.github.io/gabrielrumiranda.github.io
+baseurl:          https://gabrielrumiranda.github.io/gabrielrumiranda.github.io/
 
 author:
   name:           'King Ghidorah'
@@ -19,4 +19,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/gabrielrumiranda/gabrielrumiranda.github.io
+  repo:           https://github.com/gabrielrumiranda/gabrielrumiranda.github.io/
